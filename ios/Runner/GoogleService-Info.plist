@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>997331435037-fm4bee9jvmtpo9s1tote8om47433rtq7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.997331435037-fm4bee9jvmtpo9s1tote8om47433rtq7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>997331435037-cc7id5u42cuq3n7ho8a6v85kg0pu93eo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyByd4GKT45hYmniIdcSxi0Qx3hT-F68gRo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>997331435037</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.stepstep.steppies</string>
+	<key>PROJECT_ID</key>
+	<string>steppies-c8fd8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>steppies-c8fd8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:997331435037:ios:ee68a6ba2403d5692610f4</string>
+</dict>
+</plist>
