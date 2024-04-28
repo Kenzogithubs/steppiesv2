@@ -37,10 +37,10 @@
         <key>CFBundleTypeRole</key>
         <string>Editor</string>
         <key>CFBundleURLName</key>
-        <string>steppies.com</string>
+        <string>steppies_pre_fitbit_integration</string>
         <key>CFBundleURLSchemes</key>
         <array>
-        <string>steppies</string>
+        <string>com.stepstep.steppies</string>
         </array>
         </dict>
     </array>
